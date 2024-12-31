@@ -9,7 +9,7 @@ format: html
 
 # ABOUT
 
-![](./images/profile.jpg){fig-alt="Headshot of the author standing in front of a wall of ivy." width=250 fig-align="center"}
+![](./images/profile.jpg){fig-alt="Headshot of the author standing in front of a wall of ivy." width="250" fig-align="center"}
 
 Karen Myna Cantor is a Young Adult fiction writer based on the East Coast. Now a mapmaker, she spent several years working as an environmental scientist in a small Florida town notorious for Florida Man stories. Her work focuses on mental illness, queer identity, and environmental themes.
 

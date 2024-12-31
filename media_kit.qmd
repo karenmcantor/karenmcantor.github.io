@@ -1,0 +1,36 @@
+---
+title: "Media Kit"
+format: html
+---
+
+::: column-screen
+![](./images/banner.jpg)
+:::
+
+# Media Kit
+
+You can download the full media kit [here](https://drive.google.com/drive/folders/1f8rg97hbZ2Csq3GImJCO6FLXYWGSxoHM?usp=sharing) (links to Google Drive folder). Right now, there are just bios, photos, the deal announcement, and alt text, but more will come!
+
+# Representation
+
+Karen Myna Cantor is represented by [Ismita Hussain](https://ismitahussain.com/) at [Great Dog Literary](https://greatdogliterary.com/).
+
+# Bios
+
+**Short Bio (31 Words)**
+
+Karen Myna Cantor is a YA author based on the East Coast. She writes contemporary young adult fiction novels that focus on mental illness, featuring protagonists that make truly terrible decisions.
+
+**Medium Bio (100 Words)**
+
+Karen Myna Cantor is a YA author based on the East Coast. Now a mapmaker, she spent several years working as an environmental scientist in a small Florida town notorious for Florida Man stories. Her work focuses on mental illness, queer identity, and environmental themes.
+
+She is the author of *A History of Unnatural Disasters*, a YA contemporary in which a boy starts a true crime podcast about his own mother, and and *Snaketown, Florida*, a YA contemporary in which two teen girls try to put their town in the map in the worst way possible—by staging a (fake) disaster.
+
+**Long Bio (166 Words)**
+
+Karen Myna Cantor is the author of *A History of Unnatural Disasters*, a YA contemporary in which a boy starts a true crime podcast about his own mother, and *Snaketown, Florida*, a YA contemporary in which two teen girls try to put their town in the map in the worst way possible—by staging a (fake) disaster.
+
+She grew up in North Carolina, absorbing every nature and climate change-related book she could find and following cool bugs to see what they would do. As a queer woman growing up in the South, she has always been interested in expressing the queer experience on the page. She went to the University of North Carolina, where she got a degree in Environmental Science, and then worked in central Florida as an environmental scientist for a firm focused on sustainable development.
+
+Now, Karen lives in southern Maryland with her wife, and is a mapmaker for local government working on transportation issues. She can still often be found in the swamp.

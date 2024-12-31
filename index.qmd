@@ -1,0 +1,16 @@
+---
+title: "About"
+format: html
+---
+
+::: column-screen
+![](./images/banner.jpg)
+:::
+
+# ABOUT
+
+![](./images/profile.jpg){fig-alt="Headshot of the author standing in front of a wall of ivy." width=250 fig-align="center"}
+
+Karen Myna Cantor is a Young Adult fiction writer based on the East Coast. Now a mapmaker, she spent several years working as an environmental scientist in a small Florida town notorious for Florida Man stories. Her work focuses on mental illness, queer identity, and environmental themes.
+
+She is the author of *A History of Unnatural Disasters*, a YA contemporary in which a boy starts a true crime podcast about his own mother, and *Snaketown, Florida*, a YA contemporary in which two teen girls try to put their town in the map in the worst way possible—by staging a (fake) disaster.

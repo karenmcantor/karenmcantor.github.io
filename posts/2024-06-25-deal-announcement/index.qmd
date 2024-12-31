@@ -1,0 +1,11 @@
+---
+title: "Deal Announcement!"
+author: "Karen Myna"
+date: 2024-06-25
+tags: ["publishing"]
+format: html
+---
+
+![](../../images/announcement_original.png){fig-alt="Screenshot of a Publisher's Marketplace deal announcement for June 25th, 2024. The announcement is titled: SNAKETOWN, FLORIDA, A HISTORY OF UNNATURAL DISASTERS by Karen Myna Cantor. Imprint: Holiday House. Announcement text reads: Mapmaker Karen Myna Cantor's SNAKETOWN, FLORIDA, in which a group of teens plot to save their hometown in central Florida--and its zany residents--by faking a disaster and unleashing hundreds of pythons; and A HISTORY OF UNNATURAL DISASTERS, in which a victim of Munchausen syndrome by proxy starts a true crime podcast to tell his side of the story and investigate his own mother's crime, to Sally Morgridge at Holiday House, at auction, in a two-book deal, by Ismita Hussain at Great Dog Literary (world)."}
+
+A brief blog post just to say: I have a book deal!!! I am so thrilled my disaster YA contemporary books will be coming to Holiday House. We’ve had gay rights, now let’s have some gay wrongs (or at least, incredibly ill-advised decisions involving 600 pythons).

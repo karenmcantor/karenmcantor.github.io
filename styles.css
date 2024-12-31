@@ -1,0 +1,33 @@
+/* css styles */
+
+
+body {
+    margin:0;
+    padding:0;
+    font-family: Georgia;
+    font-size:16px
+}
+
+h1 {
+  font-family:Arial;
+  font-size:26px;
+  text-align: center
+}
+
+h2 {
+  font-family:Arial;
+  font-size:22px;
+  text-align: center
+}
+
+h3 {
+  font-family:Arial;
+  font-size:18px;
+  text-align: center
+}
+
+figcaption {
+  font-family: Arial;
+  font-size: 10px;
+  text-align: left
+}

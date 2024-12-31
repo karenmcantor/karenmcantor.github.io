@@ -1,0 +1,11 @@
+:::: column-screen
+![](./images/banner.jpg)
+
+::: banner-text
+# Karen Myna Cantor
+
+YA Author
+:::
+::::
+
+<br />

@@ -9,7 +9,7 @@ listing:
 ---
 
 ::: column-screen
-![](./images/banner.jpg)
+![](./images/banner_no_text.jpg)
 :::
 
 # BLOG

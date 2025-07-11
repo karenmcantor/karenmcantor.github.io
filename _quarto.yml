@@ -13,8 +13,8 @@ website:
         text: Books
       - href: media_kit.qmd
         text: Media Kit
-      - href: blog.qmd
-        text: Blog
+      - href: updates.qmd
+        text: Updates
     
     right:
       - text: "Bluesky"

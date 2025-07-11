@@ -9,7 +9,7 @@ format: html
 
 # BOOKS
 
-## A HISTORY OF UNNATURAL DISASTERS
+## ALEX BY PROXY
 
 ![All photos from Unsplash. Top left: rafayyansari, Top center: jeremythomasphoto, Top right: kyalloni, Middle left: jontyson, Middle center: valentina18, Middle right: thomasbjornstad, Bottom left: eugenechystiakov, Bottom center: melanie_kreutz, Bottom right: jonathanvez.](./images/moodboard_podcast.jpg){width="400" fig-alt="Image is a moodboard consisting of nine square pictures arranged in a three by three pattern. Top left: A boy in a shadowed room, throwing open a window to let in a ray of brilliant light. Top center: Red, green, yellow, and pink leaves. Top right: A boy at a desk late at night, only lit by a single lamp, poring over a mess of notes. Middle left: An array of newspapers. Middle center: Black on white text that reads, STILL FCKED UP. Middle right: A silhouette of a person blanketed by silver smoke. Bottom left: Two hands holding each other, dressed in shadows. Bottom center: Brown boots on a verdant green forest floor, sprouts and leaves pushing up through the soil, dead leaves scattered among them. Bottom right: A silver microphone."}
 
@@ -18,6 +18,8 @@ Sixteen-year-old Alex Clark has spent the last ten years thinking he was dying o
 Alex tells himself it’s nothing. But the trial is soon, and if the whole world believes he was in on it, then his mom might get off free—throwing their family into chaos. All he wants to do is take control of the story. To do this, he settles on what is clearly the most logical idea: starting a true crime podcast… about his own mother.
 
 Running the podcast means spilling all his family’s messy, messy guts, down to every whispered word and midnight dose. But as Alex digs more into the nightmare that engulfed his family, he finds that there are some secrets he wasn’t ready to know—and that could tear an already-battered home to shreds.
+
+*Alex by Proxy* will be available Summer 2026 from Holiday House.
 
 ## SNAKETOWN, FLORIDA
 
@@ -28,3 +30,5 @@ Fifteen-year-old June Cassidy has always felt at home in Sunset Springs, a town 
 June knows the town is worth everything—she just has to prove it. So she and her girlfriend Cecily come up with a brilliant idea: they’ll turn it into a tourist attraction. But the only thing that will bring outsiders to boggy, mosquito-infested Sunset Springs is good old-fashioned Floridian chaos. Together they hatch a plan to stage their very own Florida Man story by unleashing hundreds of pythons on the town as part of a (fake) revenge plot. Soon, Sunset Springs goes viral, and huge crowds arrive to capture the ensuing crisis on social media.
 
 But when various townspeople try to take the story into their own hands, things spiral out of control, and secrets risk being exposed. Worse, June begins to suspect Cecily’s motives are more complicated—and that she isn’t trying to save the town at all.
+
+*Snaketown, Florida* will be available Summer 2027 from Holiday House.

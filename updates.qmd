@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "News and Updates"
 listing: 
   contents: posts # all Quarto docs in the `posts` directory will be included on your listing page
   type: table # or `default` or `table`; each type has its own set of yaml options to include
@@ -12,4 +12,4 @@ listing:
 ![](./images/banner_no_text.jpg)
 :::
 
-# BLOG
+# NEWS AND UPDATES

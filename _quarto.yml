@@ -5,6 +5,7 @@ project:
 website:
   title: "Karen Myna Cantor - YA Author"
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
@@ -14,11 +15,22 @@ website:
         text: Media Kit
       - href: blog.qmd
         text: Blog
+    
+    right:
+      - text: "Bluesky"
+        href: https://bsky.app/profile/karenmcantor.bsky.social
+        rel: me
+      - text: "Instagram"  
+        href: https://www.instagram.com/karenmcantor/
+        rel: me
+      - text: "Tumblr"  
+        href: https://www.tumblr.com/myna-coltress/
+        rel: me
 
 format:
   html:
     theme: cerulean
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
